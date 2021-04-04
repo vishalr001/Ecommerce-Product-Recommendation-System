@@ -6,7 +6,7 @@ The recommendation system, I have designed below is based on the journey of a ne
 
 The recommendation system is designed in 3 parts based on the business context:
 
-The datasets are from
+The **datasets** are from
   1. Amazon product ratings by multipe users, Data Source: https://www.kaggle.com/skillsmuggler/amazon-ratings
   2. Home Depot's Product and description:  https://www.kaggle.com/c/home-depot-product-search-relevance/data
  
