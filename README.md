@@ -23,7 +23,7 @@ Popularity based are a great strategy to target the new customers with the most 
 **2) Model-based collaborative filtering system:**
 Recommend items to users based on purchase history and similarity of ratings provided by other users who bought items to that of a particular customer.
 
-A model based collaborative filtering technique is closen here as it helps in making predictinfg products for a particular user by identifying patterns based on preferences from multiple user data.
+A model based collaborative filtering technique is chosen here as it helps in making predicting products for a particular user by identifying patterns based on preferences from multiple user data.
 
 **3) Item-item based collaborative filtering system:**
 For a business without any user-item purchase history, a search engine based recommendation system can be designed for users. The product recommendations can be based on textual clustering analysis given in product description. Predictions done based on other products from the same cluster (based of text analysis of product description) on key search words.
