@@ -34,7 +34,7 @@ For a business without any user-item purchase history, a search engine based rec
 
 Popularity based are a great strategy to target the new customers with the most popular products sold on a business's website and is very useful to cold start a recommendation engine.
 
-![alt text](https://ibb.co/GHPDmZf)
+![popularity graph](https://user-images.githubusercontent.com/78776711/114181246-e7ced700-995e-11eb-83fb-7862bda8b2e1.PNG)
 
 **Analysis:**
 The above graph gives us the most popular products (arranged in descending order) sold by the business. For eaxmple, product, ID # B001MA0QY2 has sales of over 7000, the next most popular product, ID # B0009V1YR8 has sales of 3000, etc.
@@ -45,7 +45,7 @@ The above graph gives us the most popular products (arranged in descending order
 
 Recommending top 10 highly correlated products in sequence based on a customer's purchase history:
 
-![alt text](https://ibb.co/5GQ0K9y)
+![top10_correlated_product](https://user-images.githubusercontent.com/78776711/114181478-2e243600-995f-11eb-8b83-c32ff227c9ec.PNG)
 
 **Conclusion:**
 Product Id #: Here are the top 10 products to be displayed by the recommendation system to the above customer based on the purchase history of other customers in the website.
@@ -55,9 +55,11 @@ Cold start problem for new businesses: When a business is setting up its e-comme
 For a business without any user-item purchase history, a search engine based recommendation system can be designed for users. The product recommendations can be based on textual clustering analysis given in product description.
 
 **Visualizing product clusters in subset of data:**
-![alt text](https://ibb.co/kHBMPdJ)
+
+![product_cluster](https://user-images.githubusercontent.com/78776711/114181489-32505380-995f-11eb-9be5-01b95a94f35c.PNG)
 
 **Top words in the first 3 clusters based on text analysis and clustering techniques applied to product description:**
+
 **Top terms per cluster:**
 
 Cluster 0: m12 battery devices charge light fuel
